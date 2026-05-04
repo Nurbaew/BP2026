@@ -94,11 +94,4 @@ python-dateutil
 openpyxl
 ```
 
----
 
-## Data Sources
-
-- S&P 500 price and volume data: Yahoo Finance via `yfinance`
-- GICS sector classification: S&P Global
-- Historical S&P 500 constituents: fja05680 (2026). *S&P 500 Historical Components & Changes.* https://github.com/fja05680/sp500
-- VIX daily data: CBOE (included in `CSV/VIX_History.csv`)
