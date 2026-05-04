@@ -1,8 +1,10 @@
 # BP2026
 This repository contains the source code for the bachelor's thesis:
 **An Analysis of the Performance of Algorithmic Trading Strategies Based on Cointegration**
+
 (Analýza úspěšnosti algoritmických obchodních strategií založených na kointegraci) 
-Prague University of Economics and Business (VŠE Praha), 2025
+
+Prague University of Economics and Business (VŠE Praha), 2026
 
 The repository has four folders — **BETELGEUSE**, **ALDEBARAN**, **SIRIUS**, and **RIGEL** — each containing a Jupyter notebook with the strategy logic and a `DATA/` folder with the corresponding results.
 
