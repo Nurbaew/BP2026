@@ -1,6 +1,4 @@
 # BP2026
-# Pairs Trading on S&P 500
-
 This repository contains the source code for the bachelor's thesis:  
 **Analýza úspěšnosti algoritmických obchodních strategií založených na kointegraci**  
 Prague University of Economics and Business (VŠE Praha), 2025
