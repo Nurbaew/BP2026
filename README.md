@@ -94,10 +94,6 @@ python-dateutil
 openpyxl
 ```
 
-```bash
-pip install pandas numpy statsmodels yfinance python-dateutil openpyxl
-```
-
 ---
 
 ## Data Sources
