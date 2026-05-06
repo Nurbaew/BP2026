@@ -1,0 +1,71 @@
+Ticker,Company,MarketCap,Price,Weight,Change_1D,Change_1M,Change_1Y,Change_5Y,Volume_1D,PE_Ratio,Beta,Sector,Industry
+NVDA,NVIDIA Corp,"4,617,121.50M",190.00,7.31%,+0.78%,+2.74%,+59.2%,"+1,329%","134,740,510",47.06,2.32,Information Technology,Semiconductors
+AAPL,Apple Inc,"4,050,593.90M",275.50,6.42%,+0.67%,+5.86%,+9.9%,+105%,"44,352,914",35.0,1.10,Information Technology,"Technology Hardware, Storage & Peripherals"
+MSFT,Microsoft Corp,"3,001,409.90M",404.20,4.75%,-2.20%,-15.29%,+3.7%,+117%,"37,110,638",25.29,1.09,Information Technology,Systems Software
+AVGO,Broadcom Inc,"1,625,117.71M",342.76,2.57%,+0.68%,-2.68%,+49.7%,+691%,"15,935,425",71.86,1.22,Information Technology,Semiconductors
+MU,Micron Technology Inc,"461,841.78M",410.34,0.73%,+9.94%,+18.64%,+354.7%,+280%,"43,585,364",39.01,1.52,Information Technology,Semiconductors
+ORCL,Oracle Corp,"451,541.09M",157.16,0.72%,-1.71%,-23.22%,-3.2%,+201%,"22,832,242",27.81,1.64,Information Technology,Application Software
+AMD,Advanced Micro Devices Inc,"348,222.98M",213.58,0.55%,+0.01%,+2.84%,+104.2%,+134%,"31,241,341",82.01,1.96,Information Technology,Semiconductors
+CSCO,Cisco Systems Inc,"337,976.25M",85.54,0.54%,-0.87%,+15.58%,+29.2%,+72%,"28,218,849",33.08,0.86,Information Technology,Communications Equipment
+PLTR,Palantir Technologies Inc,"323,248.09M",135.68,0.51%,-2.75%,-24.37%,+77.7%,+655%,"49,130,482",214.41,1.70,Information Technology,Application Software
+LRCX,Lam Research Corp,"293,610.81M",235.12,0.47%,+3.76%,+6.68%,+188.0%,+262%,"8,714,034",48.19,1.78,Information Technology,Semiconductor Materials & Equipment
+AMAT,Applied Materials Inc,"269,769.54M",339.88,0.43%,+3.29%,+10.62%,+78.7%,+198%,"5,654,270",39.2,1.68,Information Technology,Semiconductor Materials & Equipment
+IBM,International Business Machines Corp,"255,006.42M",272.81,0.40%,-6.50%,-12.61%,+19.9%,+146%,"7,420,447",22.1,0.69,Information Technology,IT Consulting & Other Services
+INTC,Intel Corp,"241,208.55M",48.29,0.38%,+2.46%,+9.60%,+139.2%,-26%,"101,608,108",-588.19,1.38,Information Technology,Semiconductors
+TXN,Texas Instruments Inc,"205,614.53M",226.56,0.33%,+2.55%,+19.83%,+16.8%,+6%,"8,829,255",41.34,0.99,Information Technology,Semiconductors
+KLAC,KLA Corp,"194,014.79M","1,480.12",0.31%,+3.44%,+3.64%,+93.4%,+369%,"1,047,939",43.07,1.46,Information Technology,Semiconductor Materials & Equipment
+ANET,Arista Networks Inc,"177,131.74M",140.66,0.28%,-1.94%,+13.97%,+23.0%,+622%,"6,715,472",53.53,1.45,Information Technology,Communications Equipment
+APH,Amphenol Corp,"176,313.61M",144.04,0.28%,-0.07%,-0.74%,+103.6%,+313%,"8,776,597",43.09,1.21,Information Technology,Electronic Components
+CRM,Salesforce Inc,"173,345.00M",185.00,0.27%,-4.37%,-28.68%,-37.9%,+19%,"15,731,775",24.67,1.28,Information Technology,Application Software
+ADI,Analog Devices Inc,"164,668.31M",337.00,0.26%,+3.64%,+14.68%,+46.7%,+84%,"3,610,178",69.16,1.03,Information Technology,Semiconductors
+APP,Applovin Corp,"154,383.50M",456.81,0.24%,-3.41%,-30.64%,+28.0%,+796%,"6,941,969",56.36,2.49,Information Technology,Application Software
+QCOM,Qualcomm Inc,"150,489.68M",141.04,0.24%,+0.68%,-16.68%,-12.3%,+12%,"8,893,157",29.14,1.25,Information Technology,Semiconductors
+ACN,Accenture PLC,"141,785.88M",230.43,0.22%,-4.33%,-17.98%,-31.5%,+3%,"5,883,877",19.05,1.24,Information Technology,IT Consulting & Other Services
+PANW,Palo Alto Networks Inc,"115,214.10M",165.30,0.18%,-0.13%,-12.48%,-4.0%,+211%,"33,260,943",104.93,0.76,Information Technology,Systems Software
+INTU,Intuit Inc,"111,207.82M",399.64,0.18%,-5.16%,-37.11%,-17.1%,+74%,"5,909,232",27.44,1.25,Information Technology,Application Software
+GLW,Corning Inc,"107,383.20M",132.90,0.17%,+3.75%,+51.23%,+98.2%,+143%,"9,757,048",72.19,1.10,Information Technology,Electronic Components
+ADBE,Adobe Inc.,"105,564.18M",257.16,0.17%,-2.84%,-21.51%,-33.0%,-30%,"6,765,882",15.4,1.52,Information Technology,Application Software
+NOW,ServiceNow Inc,"105,206.68M",100.58,0.17%,-5.54%,-29.49%,-42.5%,+39%,"25,478,656",60.23,0.99,Information Technology,Systems Software
+CRWD,CrowdStrike Holdings Inc,"104,825.70M",415.81,0.17%,+0.59%,-10.96%,+10.9%,+121%,"2,380,551",-329.12,1.04,Information Technology,Systems Software
+WDC,Western Digital Corp,"92,808.81M",273.74,0.15%,+4.26%,+29.04%,+408.5%,+312%,"8,481,198",25.87,1.78,Information Technology,"Technology Hardware, Storage & Peripherals"
+STX,Seagate Technology Holdings PLC,"88,809.01M",407.25,0.14%,+2.78%,+26.68%,+323.1%,+343%,"2,677,272",46.07,1.64,Information Technology,"Technology Hardware, Storage & Peripherals"
+SNDK,Sandisk Corp,"88,444.61M",599.34,0.14%,+10.65%,+53.97%,"+1,130.0%",+559%,"18,547,167",-74.26,--,Information Technology,"Technology Hardware, Storage & Peripherals"
+SNPS,Synopsys Inc,"83,838.34M",438.21,0.13%,+0.17%,-17.85%,-11.5%,+81%,"1,955,004",54.67,1.13,Information Technology,Application Software
+DELL,Dell Technologies Inc,"82,279.59M",124.16,0.13%,-1.47%,+3.06%,+10.5%,+239%,"5,212,939",16.2,1.00,Information Technology,"Technology Hardware, Storage & Peripherals"
+CDNS,Cadence Design Systems Inc,"81,564.73M",299.65,0.13%,+0.22%,-7.94%,-0.4%,+129%,"2,309,196",77.32,1.01,Information Technology,Application Software
+MSI,Motorola Solutions Inc,"70,143.41M",421.13,0.11%,+0.34%,+9.20%,-14.2%,+125%,"1,083,427",33.79,1.00,Information Technology,Communications Equipment
+TEL,TE Connectivity PLC,"67,037.02M",228.46,0.11%,+1.19%,-2.95%,+50.6%,+88%,"1,271,864",32.93,1.23,Information Technology,Electronic Manufacturing Services
+FTNT,Fortinet Inc,"65,307.35M",87.82,0.10%,+2.68%,+11.65%,-19.4%,+167%,"7,743,500",36.19,1.04,Information Technology,Systems Software
+NXPI,NXP Semiconductors NV,"62,848.54M",249.73,0.10%,+5.54%,+4.78%,+8.4%,+37%,"4,551,994",31.43,1.45,Information Technology,Semiconductors
+MPWR,Monolithic Power Systems Inc,"58,292.72M","1,196.73",0.09%,+4.79%,+23.74%,+76.4%,+147%,"731,334",93.91,1.45,Information Technology,Semiconductors
+TER,Teradyne Inc,"50,342.28M",321.45,0.08%,+5.43%,+43.27%,+108.2%,+61%,"3,456,529",92.29,1.80,Information Technology,Semiconductor Materials & Equipment
+ADSK,Autodesk Inc,"49,309.08M",232.59,0.08%,-4.51%,-16.30%,-18.8%,-3%,"2,533,354",45.15,1.46,Information Technology,Application Software
+DDOG,Datadog Inc,"44,650.81M",127.33,0.07%,-1.80%,+0.60%,-9.4%,+38%,"8,215,331",414.22,1.29,Information Technology,Application Software
+MCHP,Microchip Technology Inc,"43,697.06M",80.75,0.07%,+5.06%,+10.03%,+39.8%,-8%,"11,808,662",-276.83,1.44,Information Technology,Semiconductors
+KEYS,Keysight Technologies Inc,"40,825.19M",238.02,0.06%,+1.29%,+14.03%,+21.3%,+54%,"918,371",47.44,1.19,Information Technology,Electronic Equipment & Instruments
+WDAY,Workday Inc,"38,016.65M",144.55,0.06%,-5.66%,-30.47%,-33.0%,-10%,"5,191,850",60.78,1.14,Information Technology,Application Software
+ROP,Roper Technologies Inc,"35,583.08M",333.80,0.06%,-4.31%,-22.80%,-35.5%,+3%,"2,408,184",23.51,0.94,Information Technology,Electronic Equipment & Instruments
+CTSH,Cognizant Technology Solutions Corp,"33,965.89M",70.91,0.05%,-4.91%,-16.80%,-0.7%,+1%,"8,754,879",13.23,0.97,Information Technology,IT Consulting & Other Services
+FICO,Fair Isaac Corp,"32,337.71M","1,363.31",0.05%,-1.26%,-16.43%,-21.9%,+231%,"199,452",50.47,1.28,Information Technology,Application Software
+HPE,Hewlett Packard Enterprise Co,"31,775.16M",23.81,0.05%,-0.67%,+7.74%,+1.6%,+103%,"14,717,605",-460.54,1.31,Information Technology,"Technology Hardware, Storage & Peripherals"
+TDY,Teledyne Technologies Inc,"31,054.14M",661.43,0.05%,+0.23%,+20.34%,+21.3%,+30%,"416,125",35.04,1.01,Information Technology,Electronic Equipment & Instruments
+ON,ON Semiconductor Corp,"28,046.34M",71.18,0.04%,+5.64%,+21.16%,+14.4%,+65%,"11,543,870",214.85,1.53,Information Technology,Semiconductors
+JBL,Jabil Inc,"27,570.05M",261.08,0.04%,+0.83%,+13.23%,+46.0%,+436%,"815,163",40.6,1.23,Information Technology,Electronic Manufacturing Services
+FSLR,First Solar Inc,"24,438.78M",227.74,0.04%,+0.66%,-4.24%,+34.6%,+164%,"1,139,371",17.48,1.63,Information Technology,Semiconductors
+Q,Qnity Electronics Inc,"23,985.27M",114.51,0.04%,+4.77%,+25.96%,+1.2%,,"2,958,407",31.85,--,Information Technology,TBD
+NTAP,NetApp Inc,"20,974.55M",105.90,0.03%,+0.25%,-1.06%,-21.1%,+62%,"1,800,758",18.43,1.38,Information Technology,"Technology Hardware, Storage & Peripherals"
+VRSN,"VeriSign, Inc","19,777.86M",215.68,0.03%,-2.00%,-13.26%,+13.6%,+12%,"670,056",24.51,0.76,Information Technology,Internet Services & Infrastructure
+SMCI,Super Micro Computer Inc,"19,191.64M",32.04,0.03%,-3.87%,+6.37%,+2.1%,+823%,"23,059,120",24.42,1.51,Information Technology,"Technology Hardware, Storage & Peripherals"
+PTC,PTC Inc,"18,516.40M",155.60,0.03%,-4.38%,-9.23%,-19.3%,+46%,"1,581,929",22.92,1.03,Information Technology,Application Software
+HPQ,HP Inc,"18,139.28M",19.76,0.03%,-0.25%,-6.70%,-40.2%,-9%,"13,333,480",7.44,1.19,Information Technology,"Technology Hardware, Storage & Peripherals"
+CDW,CDW Corp,"17,571.74M",134.97,0.03%,-5.52%,+1.10%,-36.5%,+3%,"2,083,321",16.7,1.04,Information Technology,Technology Distributors
+FFIV,F5 Inc,"15,976.51M",282.67,0.03%,+0.10%,+4.48%,-7.3%,+45%,"411,131",23.4,1.01,Information Technology,Communications Equipment
+TRMB,Trimble Inc,"15,495.73M",65.13,0.02%,-5.44%,-19.39%,-9.8%,+17%,"3,448,501",37.0,1.57,Information Technology,Electronic Equipment & Instruments
+GEN,Gen Digital Inc,"14,941.63M",24.67,0.02%,-1.99%,-7.84%,-10.8%,+31%,"7,684,149",25.45,1.10,Information Technology,Systems Software
+TYL,Tyler Technologies Inc,"14,597.93M",339.25,0.02%,-5.90%,-24.01%,-38.6%,+4%,"1,193,013",47.2,0.90,Information Technology,Application Software
+AKAM,Akamai Technologies Inc,"13,649.95M",94.88,0.02%,+0.51%,+3.96%,-2.8%,-17%,"3,728,170",27.82,0.73,Information Technology,Internet Services & Infrastructure
+ZBRA,Zebra Technologies Corp,"12,791.40M",252.50,0.02%,-1.59%,-4.51%,-40.0%,-37%,"1,086,201",25.46,1.64,Information Technology,Electronic Equipment & Instruments
+GDDY,GoDaddy Inc,"12,257.20M",90.70,0.02%,-5.61%,-19.19%,-52.7%,+50%,"1,706,777",15.63,0.94,Information Technology,Internet Services & Infrastructure
+IT,Gartner Inc,"11,643.08M",161.53,0.02%,+1.03%,-33.33%,-61.4%,+57%,"1,951,943",16.73,1.06,Information Technology,IT Consulting & Other Services
+EPAM,Epam Systems Inc,"9,832.17M",177.99,0.02%,-7.11%,-15.97%,-17.9%,-43%,"1,245,347",27.16,1.72,Information Technology,IT Consulting & Other Services
+SWKS,Skyworks Solutions Inc,"9,575.56M",63.68,0.02%,+2.20%,+8.21%,-37.2%,-59%,"2,582,147",23.35,1.30,Information Technology,Semiconductors

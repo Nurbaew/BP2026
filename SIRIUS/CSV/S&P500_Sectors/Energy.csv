@@ -1,0 +1,23 @@
+Ticker,Company,MarketCap,Price,Weight,Change_1D,Change_1M,Change_1Y,Change_5Y,Volume_1D,PE_Ratio,Beta,Sector,Industry
+XOM,Exxon Mobil Corp,"650,085.24M",155.56,1.03%,+2.62%,+25.42%,+32.4%,+192%,"20,738,043",23.24,0.35,Energy,Integrated Oil & Gas
+CVX,Chevron Corp,"367,923.60M",185.82,0.58%,+1.95%,+14.46%,+18.6%,+80%,"9,577,559",27.95,0.67,Energy,Integrated Oil & Gas
+COP,ConocoPhillips,"136,251.16M",111.21,0.22%,+3.45%,+16.45%,+5.5%,+134%,"8,698,238",17.55,0.29,Energy,Oil & Gas Exploration & Production
+WMB,The Williams Companies Inc.,"86,853.16M",71.12,0.14%,+3.31%,+19.41%,+21.3%,+200%,"11,402,195",33.34,0.66,Energy,Oil & Gas Storage & Transportation
+SLB,Slb NV,"77,099.21M",51.56,0.12%,+3.07%,+14.20%,+20.1%,+76%,"22,629,462",21.81,0.70,Energy,Oil & Gas Equipment & Services
+KMI,Kinder Morgan,"69,968.70M",31.45,0.11%,+1.42%,+16.83%,+10.9%,+101%,"13,019,803",23.0,0.69,Energy,Oil & Gas Storage & Transportation
+PSX,Phillips 66,"65,071.58M",161.50,0.10%,+2.66%,+16.31%,+21.8%,+84%,"1,753,355",14.91,0.86,Energy,Oil & Gas Refining & Marketing
+EOG,EOG Resources Inc,"64,146.17M",118.22,0.10%,+4.90%,+12.12%,-10.9%,+113%,"5,142,542",11.75,0.46,Energy,Oil & Gas Exploration & Production
+VLO,Valero Energy Corp,"62,197.64M",203.92,0.10%,+2.22%,+13.53%,+36.4%,+188%,"2,623,209",26.66,0.71,Energy,Oil & Gas Refining & Marketing
+MPC,Marathon Petroleum Corp,"61,548.80M",208.64,0.10%,+2.20%,+18.86%,+20.9%,+293%,"1,537,679",22.25,0.70,Energy,Oil & Gas Refining & Marketing
+BKR,Baker Hughes Co,"60,529.70M",61.25,0.10%,+3.55%,+27.74%,+21.4%,+118%,"13,305,368",23.53,0.85,Energy,Oil & Gas Equipment & Services
+OKE,ONEOK Inc,"53,421.63M",84.90,0.08%,+1.73%,+17.12%,-18.5%,+92%,"3,363,623",15.62,0.91,Energy,Oil & Gas Storage & Transportation
+FANG,Diamondback Energy Inc,"48,426.44M",169.01,0.08%,+2.50%,+14.54%,-0.2%,+211%,"2,847,422",11.75,0.57,Energy,Oil & Gas Exploration & Production
+TRGP,Targa Resources Corp,"47,635.20M",221.91,0.08%,+2.23%,+26.82%,+2.1%,+599%,"1,118,276",29.87,0.86,Energy,Oil & Gas Storage & Transportation
+OXY,Occidental Petroleum Corp,"46,541.32M",47.24,0.07%,+2.10%,+10.58%,-2.7%,+138%,"11,709,051",34.49,0.37,Energy,Oil & Gas Exploration & Production
+EQT,EQT Corp,"35,528.31M",56.93,0.06%,+2.78%,+9.17%,+12.9%,+322%,"6,629,963",19.53,0.73,Energy,Oil & Gas Exploration & Production
+HAL,Halliburton Co,"29,339.38M",35.03,0.05%,+2.97%,+9.81%,+28.8%,+50%,"13,422,354",23.29,0.75,Energy,Oil & Gas Equipment & Services
+TPL,Texas Pacific Land Corp,"28,509.45M",413.54,0.05%,+2.97%,+33.37%,-19.4%,+256%,"510,267",59.94,0.91,Energy,Oil & Gas Exploration & Production
+DVN,Devon Energy Corp,"27,886.89M",44.96,0.04%,+3.40%,+25.87%,+17.9%,+132%,"9,345,260",10.57,0.62,Energy,Oil & Gas Exploration & Production
+EXE,Expand Energy Corp,"24,633.92M",103.43,0.04%,+1.19%,+0.57%,+10.6%,+154%,"4,047,372",29.36,0.46,Energy,Oil & Gas Exploration & Production
+CTRA,Coterra Energy Inc,"24,010.96M",31.65,0.04%,+3.57%,+26.96%,+4.1%,+62%,"7,395,522",14.61,0.37,Energy,Oil & Gas Exploration & Production
+APA,APA Corp (US),"10,022.97M",28.26,0.02%,+2.95%,+13.40%,+20.4%,+71%,"7,123,021",6.8,0.69,Energy,Oil & Gas Exploration & Production

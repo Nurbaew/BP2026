@@ -1,0 +1,27 @@
+Ticker,Company,MarketCap,Price,Weight,Change_1D,Change_1M,Change_1Y,Change_5Y,Volume_1D,PE_Ratio,Beta,Sector,Industry
+LIN,Linde PLC,"218,303.80M",467.51,0.35%,+1.52%,+5.38%,+2.4%,+62%,"1,986,021",32.03,0.85,Materials,Industrial Gases
+NEM,Newmont Corporation,"135,971.00M",124.60,0.22%,+2.53%,+10.30%,+163.0%,+67%,"6,262,319",19.36,0.43,Materials,Gold
+FCX,Freeport-McMoRan Inc,"93,995.98M",65.46,0.15%,+3.48%,+11.50%,+68.0%,+95%,"14,988,909",42.86,1.43,Materials,Copper
+SHW,Sherwin-Williams Co,"90,968.19M",366.97,0.14%,+0.64%,+2.61%,-1.0%,+32%,"1,383,784",35.78,1.26,Materials,Specialty Chemicals
+ECL,Ecolab Inc,"85,977.50M",303.55,0.14%,+1.31%,+12.01%,+12.7%,+21%,"1,410,940",41.69,0.99,Materials,Specialty Chemicals
+CRH,CRH PLC,"85,414.73M",127.83,0.14%,-1.02%,-2.70%,+23.6%,+191%,"3,166,100",25.29,1.18,Materials,-
+APD,Air Products and Chemicals Inc,"65,270.55M",293.14,0.10%,+0.82%,+9.77%,-18.7%,-10%,"821,356",-200.14,0.88,Materials,Industrial Gases
+CTVA,Corteva Inc,"50,627.09M",75.32,0.08%,+1.48%,+9.97%,+11.5%,+73%,"4,976,547",43.57,0.74,Materials,Fertilizers & Agricultural Chemicals
+NUE,Nucor Corp,"44,494.96M",194.42,0.07%,+1.27%,+17.14%,+38.4%,+207%,"1,618,255",25.79,1.84,Materials,Steel
+VMC,Vulcan Materials Co,"42,252.53M",319.78,0.07%,-3.21%,+3.28%,+9.6%,+92%,"1,538,471",37.79,1.05,Materials,Construction Materials
+MLM,Martin Marietta Materials Inc,"39,904.11M",661.65,0.06%,-6.56%,-0.31%,+19.8%,+119%,"1,273,880",36.59,1.13,Materials,Construction Materials
+STLD,Steel Dynamics Inc,"30,050.05M",205.78,0.05%,+2.32%,+21.51%,+40.1%,+360%,"1,189,288",25.72,1.44,Materials,Steel
+PPG,PPG Industries Inc,"29,403.13M",131.03,0.05%,+1.46%,+21.27%,+0.2%,-29%,"1,579,251",18.95,1.15,Materials,Specialty Chemicals
+SW,Smurfit WestRock PLC,"26,266.27M",50.28,0.04%,+9.90%,+17.09%,-21.6%,-18%,"18,273,718",35.34,1.00,Materials,Paper & Plastic Packaging Products & Materials
+IP,International Paper Co,"25,974.29M",49.19,0.04%,+2.48%,+16.12%,-27.5%,-16%,"6,356,540",-9.14,1.08,Materials,Paper & Plastic Packaging Products & Materials
+DOW,Dow Inc,"24,396.02M",34.00,0.04%,+1.19%,+28.30%,-29.4%,-58%,"12,441,446",-9.22,0.73,Materials,Commodity Chemicals
+AMCR,Amcor PLC,"23,144.08M",50.09,0.04%,+3.21%,+16.35%,-8.9%,-29%,"7,057,738",32.76,0.66,Materials,Paper & Plastic Packaging Products & Materials
+PKG,Packaging Corp of America,"22,004.61M",244.55,0.03%,+1.15%,+12.58%,+4.7%,+50%,"958,470",28.5,0.89,Materials,Paper & Plastic Packaging Products & Materials
+DD,Dupont De Nemours Inc,"21,590.04M",51.53,0.03%,+4.25%,+18.65%,+36.7%,+35%,"12,306,689",-141.57,1.09,Materials,Specialty Chemicals
+ALB,Albemarle Corp,"20,648.11M",175.43,0.03%,+4.08%,+3.60%,+102.7%,-4%,"3,391,349",-110.09,1.45,Materials,Specialty Chemicals
+IFF,International Flavors & Fragrances Inc,"19,712.02M",76.97,0.03%,+0.27%,+11.62%,-19.8%,-38%,"2,273,050",-47.59,1.03,Materials,Specialty Chemicals
+LYB,LyondellBasell Industries NV,"19,149.34M",59.47,0.03%,+3.14%,+23.38%,-35.3%,-53%,"7,916,720",-15.07,0.66,Materials,Specialty Chemicals
+BALL,Ball Corp,"18,046.45M",67.34,0.03%,-0.62%,+21.40%,+2.1%,-43%,"2,081,734",20.33,1.12,Materials,"Metal, Glass & Plastic Containers"
+CF,CF Industries Holdings Inc,"15,118.17M",96.93,0.02%,+0.64%,+19.98%,+1.1%,+100%,"1,535,271",11.68,0.69,Materials,Fertilizers & Agricultural Chemicals
+AVY,Avery Dennison Corp,"14,901.89M",192.78,0.02%,+1.11%,+2.56%,-0.1%,+17%,"498,124",21.94,0.98,Materials,Paper & Plastic Packaging Products & Materials
+MOS,Mosaic Co,"9,884.15M",31.14,0.02%,+3.39%,+21.07%,-1.4%,+5%,"5,946,423",8.09,0.95,Materials,Fertilizers & Agricultural Chemicals

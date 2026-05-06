@@ -1,0 +1,76 @@
+Ticker,Company,MarketCap,Price,Weight,Change_1D,Change_1M,Change_1Y,Change_5Y,Volume_1D,PE_Ratio,Beta,Sector,Industry
+BRK.B,Berkshire Hathaway Inc,"1,068,102.78M",500.02,1.69%,-0.06%,+0.27%,+2.5%,+117%,"3,504,101",15.99,0.70,Financials,Multi-Sector Holdings
+JPM,JPMorgan Chase & Co,"838,032.87M",310.82,1.33%,-2.34%,-4.21%,+14.4%,+154%,"8,197,808",15.53,1.05,Financials,Diversified Banks
+V,Visa Inc,"627,534.74M",329.24,0.99%,+0.33%,-4.07%,-5.8%,+60%,"8,084,888",30.89,0.78,Financials,Transaction & Payment Processing Services
+MA,Mastercard Inc,"480,489.24M",537.46,0.76%,-0.54%,-5.09%,-3.0%,+60%,"3,593,605",32.53,0.82,Financials,Transaction & Payment Processing Services
+BAC,Bank of America Corp,"388,390.97M",53.85,0.62%,-2.78%,-2.43%,+14.9%,+81%,"47,765,400",14.13,1.27,Financials,Diversified Banks
+GS,Goldman Sachs Group Inc,"283,310.87M",944.59,0.45%,-0.46%,-0.52%,+46.1%,+233%,"2,533,825",18.41,1.31,Financials,Investment Banking & Brokerage
+MS,Morgan Stanley,"279,684.44M",176.68,0.44%,-0.68%,-5.30%,+32.0%,+159%,"7,620,305",17.31,1.18,Financials,Investment Banking & Brokerage
+WFC,Wells Fargo & Co,"275,086.78M",88.95,0.44%,-3.22%,-6.33%,+14.8%,+209%,"15,031,495",14.19,1.06,Financials,Diversified Banks
+AXP,American Express Co,"243,066.80M",354.01,0.39%,-2.53%,-1.55%,+10.9%,+206%,"3,336,611",23.02,1.13,Financials,Consumer Finance
+C,Citigroup Inc,"210,045.93M",117.39,0.33%,-3.90%,-0.26%,+42.1%,+89%,"13,284,888",16.84,1.14,Financials,Diversified Banks
+SCHW,Charles Schwab Corp,"169,608.92M",95.45,0.27%,-3.83%,-6.33%,+25.6%,+88%,"23,759,128",20.47,0.91,Financials,Investment Banking & Brokerage
+BLK,BlackRock Inc,"168,008.83M","1,082.88",0.27%,-0.45%,-0.59%,+4.0%,+48%,"937,002",31.25,1.49,Financials,Asset Management & Custody Banks
+BX,Blackstone Inc,"159,399.22M",133.47,0.25%,-0.26%,-14.76%,-19.6%,+138%,"5,890,163",34.48,1.77,Financials,Asset Management & Custody Banks
+COF,Capital One Financial Corp,"134,015.18M",214.39,0.21%,-2.52%,-8.07%,+7.5%,+145%,"4,716,612",63.81,1.13,Financials,Consumer Finance
+IBKR,Interactive Brokers Group Inc,"129,497.23M",76.35,0.21%,-1.10%,+7.85%,+37.8%,+322%,"3,425,296",34.35,1.22,Financials,Investment Banking & Brokerage
+CB,Chubb Ltd,"128,699.28M",329.07,0.20%,+0.86%,+7.32%,+13.9%,+103%,"1,316,284",12.79,0.48,Financials,Property & Casualty Insurance
+PGR,Progressive Corp,"122,125.65M",208.37,0.19%,+2.85%,-3.76%,-15.6%,+130%,"4,462,204",10.83,0.32,Financials,Property & Casualty Insurance
+SPGI,S&P Global Inc,"118,322.12M",390.76,0.19%,-2.57%,-28.23%,+1.2%,+59%,"5,134,530",28.41,1.22,Financials,Financial Exchanges & Data
+CME,CME Group Inc,"109,074.29M",302.48,0.17%,-1.40%,+14.15%,+22.2%,+58%,"2,483,581",27.1,0.28,Financials,Financial Exchanges & Data
+KKR,KKR & Co Inc,"93,645.23M",105.06,0.15%,-2.01%,-21.58%,-31.6%,+215%,"6,499,348",45.0,1.98,Financials,Asset Management & Custody Banks
+PNC,PNC Financial Services Group Inc,"91,837.20M",235.48,0.15%,-2.02%,+9.15%,+11.1%,+40%,"2,349,288",14.18,0.96,Financials,Diversified Banks
+USB,US Bancorp,"91,682.80M",58.96,0.15%,-2.63%,+8.40%,+17.4%,+15%,"13,992,862",12.76,1.05,Financials,Diversified Banks
+ICE,Intercontinental Exchange Inc,"86,315.12M",151.99,0.14%,-7.78%,-8.58%,+8.7%,+40%,"8,455,038",26.34,1.04,Financials,Financial Exchanges & Data
+BK,Bank of New York Mellon Corp,"83,758.81M",121.70,0.13%,-3.76%,+0.86%,+39.6%,+174%,"5,699,463",16.41,1.09,Financials,Asset Management & Custody Banks
+APO,Apollo Global Management Inc,"73,684.32M",126.95,0.12%,-4.14%,-11.79%,-21.3%,+196%,"6,204,916",23.0,1.57,Financials,Asset Management & Custody Banks
+MCO,Moody's Corp,"73,541.83M",412.23,0.12%,-1.61%,-22.96%,+3.2%,+76%,"1,949,923",32.97,1.46,Financials,Financial Exchanges & Data
+HOOD,Robinhood Markets Inc,"70,199.76M",78.07,0.11%,-8.80%,-33.57%,+91.5%,+169%,"62,944,592",34.5,2.45,Financials,Investment Banking & Brokerage
+TFC,Truist Financial Corp,"68,223.88M",54.04,0.11%,-1.92%,+7.78%,+8.0%,+3%,"9,764,018",14.16,0.85,Financials,Diversified Banks
+AON,Aon PLC,"66,488.57M",309.97,0.11%,-2.50%,-11.56%,-5.7%,+67%,"2,887,989",18.21,0.82,Financials,Insurance Brokers
+TRV,Travelers Companies Inc,"65,039.02M",299.03,0.10%,+0.14%,+6.61%,+16.0%,+107%,"1,822,264",10.86,0.51,Financials,Property & Casualty Insurance
+AFL,Aflac Inc,"60,297.71M",116.25,0.10%,+0.32%,+6.77%,+3.3%,+148%,"2,482,380",16.88,0.66,Financials,Life & Health Insurance
+ALL,Allstate Corp,"53,229.80M",204.73,0.08%,+1.78%,-1.88%,+3.5%,+89%,"1,648,733",5.36,0.24,Financials,Property & Casualty Insurance
+AJG,Arthur J. Gallagher & Co.,"52,760.57M",205.31,0.08%,-3.42%,-22.48%,-17.4%,+109%,"4,311,022",35.72,0.67,Financials,Insurance Brokers
+MET,MetLife Inc,"51,696.62M",78.89,0.08%,+1.24%,+0.73%,-8.8%,+68%,"4,188,414",16.77,0.74,Financials,Life & Health Insurance
+FITB,Fifth Third Bancorp,"48,917.72M",54.35,0.08%,-0.28%,+12.02%,+13.3%,+70%,"10,995,379",15.38,0.97,Financials,Regional Banks
+NDAQ,Nasdaq Inc,"45,925.53M",80.43,0.07%,-2.52%,-19.10%,+17.7%,+120%,"6,478,941",26.01,1.04,Financials,Financial Exchanges & Data
+ARES,Ares Management Corp,"44,905.40M",137.38,0.07%,+0.28%,-21.18%,-24.5%,+244%,"3,452,566",78.67,1.53,Financials,Asset Managers & Custodians
+AMP,Ameriprise Financial Inc,"44,368.15M",485.96,0.07%,-3.89%,-4.74%,-3.0%,+152%,"1,335,245",13.37,1.26,Financials,Asset Management & Custody Banks
+AIG,American International Group Inc,"42,324.66M",78.44,0.07%,+4.59%,+5.87%,+1.7%,+126%,"7,231,429",14.46,0.60,Financials,Multi-line Insurance
+COIN,Coinbase Global,"41,311.91M",153.20,0.07%,-5.73%,-36.95%,-33.1%,-11%,"13,035,661",13.26,3.71,Financials,Financial Exchanges & Data
+HIG,Hartford Insurance Group Inc,"39,609.38M",142.02,0.06%,+0.28%,+5.01%,+21.1%,+181%,"1,446,257",10.64,0.60,Financials,Property & Casualty Insurance
+MSCI,MSCI Inc,"37,604.89M",511.84,0.06%,-0.74%,-12.73%,+2.1%,+28%,"1,188,655",32.63,1.30,Financials,Financial Exchanges & Data
+PYPL,PayPal Holdings Inc,"37,268.32M",40.48,0.06%,-2.43%,-29.34%,-40.5%,-75%,"21,048,882",7.47,1.44,Financials,Transaction & Payment Processing Services
+STT,State Street Corp,"36,729.72M",131.61,0.06%,-0.47%,-1.11%,+28.8%,+77%,"2,148,215",13.99,1.44,Financials,Asset Management & Custody Banks
+PRU,Prudential Financial Inc,"36,619.95M",105.26,0.06%,+1.87%,-10.60%,-8.0%,+45%,"2,393,338",14.43,0.96,Financials,Life & Health Insurance
+HBAN,Huntington Bancshares,"36,413.36M",17.94,0.06%,-3.39%,+0.22%,+1.6%,+37%,"34,749,058",12.88,0.95,Financials,Regional Banks
+ACGL,Arch Capital Group Ltd,"35,758.94M",98.61,0.06%,+0.78%,+5.76%,+3.2%,+166%,"1,946,628",8.49,0.40,Financials,Property & Casualty Insurance
+MTB,M&T Bank Corp,"35,639.88M",234.72,0.06%,-0.63%,+10.95%,+10.1%,+58%,"1,413,830",13.77,0.57,Financials,Regional Banks
+FISV,Fiserv Inc,"33,405.86M",62.11,0.05%,-0.77%,-8.93%,-70.5%,-41%,"9,633,646",9.8,0.76,Financials,Transaction Processing Services
+XYZ,Block Inc,"32,698.72M",53.81,0.05%,-6.09%,-23.41%,-33.5%,-70%,"9,685,005",27.06,2.67,Financials,Transaction & Payment Processing Services
+RJF,Raymond James Financial Inc,"31,258.47M",158.60,0.05%,+0.08%,-7.19%,-1.6%,+152%,"2,757,732",15.52,1.00,Financials,Investment Banking & Brokerage
+CFG,Citizens Financial Group Inc,"28,698.99M",66.86,0.05%,-1.02%,+11.06%,+32.4%,+63%,"5,319,406",17.29,1.06,Financials,Regional Banks
+CBOE,Cboe Global Markets Inc,"28,110.49M",268.64,0.04%,-1.98%,+1.77%,+29.7%,+170%,"682,100",137.74,0.35,Financials,Financial Exchanges & Data
+NTRS,Northern Trust Corp,"27,298.81M",146.50,0.04%,-1.64%,+0.23%,+33.1%,+47%,"1,084,648",16.76,1.28,Financials,Asset Management & Custody Banks
+WRB,W R Berkley Corp,"26,982.03M",71.54,0.04%,+2.32%,+4.12%,+16.6%,+138%,"2,375,582",16.08,0.36,Financials,Property & Casualty Insurance
+RF,Regions Financial Corp,"26,864.60M",30.95,0.04%,+0.42%,+9.52%,+15.7%,+68%,"15,241,065",13.45,1.02,Financials,Regional Banks
+WTW,Willis Towers Watson PLC,"26,630.96M",280.09,0.04%,-3.34%,-14.98%,-3.7%,+56%,"2,219,228",17.17,0.63,Financials,Insurance Brokers
+CINF,Cincinnati Financial Corp,"25,517.23M",163.55,0.04%,+0.28%,-0.05%,+17.4%,+87%,"659,570",10.78,0.65,Financials,Property & Casualty Insurance
+SYF,Synchrony Financial,"25,350.47M",72.93,0.04%,-1.31%,-8.41%,+5.3%,+140%,"6,534,841",7.85,1.40,Financials,Consumer Finance
+FIS,Fidelity National Information Services Inc,"25,017.33M",48.31,0.04%,-4.43%,-27.07%,-32.2%,-53%,"4,933,282",150.26,0.91,Financials,Transaction & Payment Processing Services
+KEY,KeyCorp,"24,848.10M",22.54,0.04%,-1.74%,+6.98%,+19.7%,+26%,"11,682,416",14.83,1.06,Financials,Regional Banks
+CPAY,Corpay Inc,"24,248.84M",346.61,0.04%,-2.74%,+4.80%,-17.3%,+10%,"652,951",23.02,0.80,Financials,Transaction & Payment Processing Services
+L,Loews Corp,"22,695.02M",110.17,0.04%,+0.19%,+5.41%,+23.6%,+134%,"644,634",15.98,0.60,Financials,Multi-line Insurance
+BRO,Brown & Brown Inc,"22,518.72M",67.02,0.04%,-0.87%,-15.81%,-31.1%,+68%,"7,108,305",20.99,0.79,Financials,Insurance Brokers
+TROW,T. Rowe Price Group Inc,"20,502.49M",93.79,0.03%,-2.95%,-12.21%,-9.6%,-32%,"2,292,961",10.14,1.55,Financials,Asset Management & Custody Banks
+PFG,Principal Financial Group Inc,"20,389.43M",92.81,0.03%,-0.89%,+2.89%,+14.9%,+78%,"1,440,496",13.52,0.89,Financials,Life & Health Insurance
+GPN,Global Payments Inc,"20,222.32M",72.22,0.03%,-1.45%,-9.36%,-36.4%,-64%,"4,448,672",11.65,0.75,Financials,Transaction & Payment Processing Services
+ERIE,Erie Indemnity Co,"14,666.82M",280.49,0.02%,+0.66%,-0.64%,-29.8%,+17%,"222,062",22.62,0.37,Financials,Insurance Brokers
+BEN,Franklin Resources Inc,"14,346.94M",27.55,0.02%,-2.17%,-58.73%,+34.9%,+127%,"4,895,837",25.35,1.48,Financials,Asset Management & Custody Banks
+EG,Everest Group Ltd,"13,529.49M",332.42,0.02%,+0.59%,+1.23%,-4.7%,+45%,"355,677",8.78,0.33,Financials,Reinsurance
+JKHY,Jack Henry & Associates Inc,"11,954.96M",165.65,0.02%,-2.91%,-12.94%,+2.9%,+13%,"1,064,837",23.78,0.71,Financials,Transaction & Payment Processing Services
+IVZ,Invesco Ltd,"11,739.36M",26.44,0.02%,-3.11%,-8.07%,+41.9%,+51%,"5,952,243",-16.52,1.66,Financials,Asset Management & Custody Banks
+GL,Globe Life Inc,"11,458.27M",143.93,0.02%,+1.39%,+0.74%,+14.8%,+47%,"338,431",10.18,0.46,Financials,Life & Health Insurance
+AIZ,Assurant Inc,"10,817.78M",216.01,0.02%,-8.65%,-9.33%,+10.7%,+77%,"1,168,071",13.15,0.58,Financials,Multi-line Insurance
+FDS,Factset Research Systems Inc,"7,188.50M",193.76,0.01%,-5.40%,-34.74%,-46.4%,-13%,"1,336,683",12.33,0.74,Financials,Financial Exchanges & Data

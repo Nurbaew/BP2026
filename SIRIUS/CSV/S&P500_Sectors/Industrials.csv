@@ -1,0 +1,80 @@
+Ticker,Company,MarketCap,Price,Weight,Change_1D,Change_1M,Change_1Y,Change_5Y,Volume_1D,PE_Ratio,Beta,Sector,Industry
+CAT,Caterpillar Inc,"362,684.51M",775.00,0.57%,+4.40%,+23.06%,+77.0%,+215%,"3,787,740",41.17,1.54,Industrials,Construction Machinery & Heavy Transportation Equipment
+GE,GE Aerospace,"329,043.18M",313.73,0.52%,-0.82%,-3.22%,+50.7%,+473%,"4,912,919",38.94,1.39,Industrials,Aerospace & Defense
+RTX,RTX Corp,"263,773.42M",196.51,0.42%,+0.68%,+1.37%,+55.8%,+156%,"4,565,880",39.59,0.42,Industrials,Aerospace & Defense
+GEV,GE Vernova Inc,"222,003.77M",823.67,0.35%,+4.16%,+28.74%,+94.8%,+378%,"2,557,885",46.18,--,Industrials,Heavy Electrical Equipment
+BA,Boeing Co,"185,546.79M",236.26,0.29%,-2.61%,-1.48%,+32.4%,+1%,"5,617,799",106.37,1.14,Industrials,Aerospace & Defense
+DE,Deere & Co,"166,081.88M",612.69,0.26%,+3.25%,+24.85%,+10.8%,+73%,"1,750,388",33.11,0.99,Industrials,Agricultural & Farm Machinery
+ETN,Eaton Corporation PLC,"156,534.77M",396.09,0.25%,+4.93%,+20.36%,+7.7%,+165%,"3,699,056",37.89,1.17,Industrials,Electrical Components & Equipment
+UNP,Union Pacific Corp,"155,948.83M",262.81,0.25%,+0.57%,+14.51%,-5.1%,+11%,"4,337,690",21.93,0.98,Industrials,Rail Transportation
+HON,Honeywell International Inc,"154,135.42M",242.78,0.24%,-0.23%,+16.39%,+7.9%,-3%,"3,841,232",30.28,0.93,Industrials,Industrial Conglomerates
+UBER,Uber Technologies Inc,"147,546.71M",71.01,0.23%,-3.39%,-16.13%,+19.8%,+60%,"27,183,264",15.0,1.21,Industrials,Passenger Ground Transportation
+LMT,Lockheed Martin Corp,"144,651.30M",628.70,0.23%,-0.14%,+14.05%,+37.0%,+36%,"1,000,879",29.26,0.23,Industrials,Aerospace & Defense
+PH,Parker-Hannifin Corp,"125,693.66M",995.83,0.20%,+0.43%,+7.20%,+32.4%,+223%,"663,367",36.32,1.24,Industrials,Industrial Machinery & Supplies & Components
+TT,Trane Technologies PLC,"104,587.28M",472.54,0.17%,+2.42%,+22.59%,+15.9%,+168%,"1,281,518",35.95,1.20,Industrials,Building Products
+UPS,United Parcel Service Inc,"101,806.80M",120.00,0.16%,+1.10%,+11.08%,-7.0%,-41%,"6,549,289",18.29,1.08,Industrials,Air Freight & Logistics
+NOC,Northrop Grumman Corp,"96,339.55M",678.83,0.15%,-0.90%,+7.87%,+42.1%,+87%,"782,178",23.34,0.04,Industrials,Aerospace & Defense
+WM,Waste Management Inc,"94,647.76M",234.66,0.15%,+1.27%,+7.36%,+0.9%,+86%,"1,860,509",35.04,0.58,Industrials,Environmental & Facilities Services
+GD,General Dynamics Corp,"93,646.88M",346.34,0.15%,-3.48%,-4.04%,+36.6%,+126%,"1,876,632",22.41,0.40,Industrials,Aerospace & Defense
+HWM,Howmet Aerospace Inc,"92,815.55M",230.85,0.15%,+2.84%,+4.86%,+64.4%,+618%,"4,183,215",64.85,1.24,Industrials,Aerospace & Defense
+MMM,3M Co,"91,040.10M",172.85,0.14%,-0.33%,+2.92%,+0.6%,+10%,"2,930,300",28.83,1.07,Industrials,Industrial Conglomerates
+ADP,Automatic Data Processing Inc,"87,602.39M",217.57,0.14%,-3.53%,-17.21%,-18.5%,+46%,"4,349,733",20.9,0.86,Industrials,Human Resource & Employment Services
+EMR,Emerson Electric Co,"86,924.54M",154.67,0.14%,-4.34%,+6.40%,+13.1%,+65%,"7,302,826",37.92,1.24,Industrials,Electrical Components & Equipment
+ITW,Illinois Tool Works Inc,"86,470.11M",298.07,0.14%,+1.30%,+17.10%,+0.8%,+21%,"1,361,349",28.41,1.15,Industrials,Industrial Machinery & Supplies & Components
+FDX,FedEx Corp,"86,326.66M",367.16,0.14%,-0.21%,+17.71%,+21.7%,+11%,"1,800,376",20.27,1.32,Industrials,Air Freight & Logistics
+JCI,Johnson Controls International PLC,"86,277.39M",140.96,0.14%,+1.59%,+26.55%,+52.9%,+157%,"3,554,047",47.28,1.41,Industrials,Building Products
+CMI,Cummins Inc,"82,708.09M",598.90,0.13%,+1.84%,+6.53%,+62.5%,+125%,"994,585",29.2,1.12,Industrials,Construction Machinery & Heavy Transportation Equipment
+CTAS,Cintas Corp,"80,121.96M",200.36,0.13%,+0.53%,+3.80%,-4.6%,+113%,"1,773,646",43.3,0.95,Industrials,Diversified Support Services
+PWR,Quanta Services Inc,"78,132.91M",523.96,0.12%,+2.61%,+21.10%,+54.3%,+486%,"1,028,217",77.71,1.13,Industrials,Construction & Engineering
+CSX,CSX Corp,"76,980.87M",41.34,0.12%,+1.08%,+17.38%,+14.9%,+20%,"15,257,598",26.8,1.28,Industrials,Rail Transportation
+TDG,TransDigm Group Inc,"74,889.95M","1,326.19",0.12%,+1.09%,-4.32%,+5.5%,+115%,"274,850",42.65,0.93,Industrials,Aerospace & Defense
+NSC,Norfolk Southern Corp,"71,253.82M",317.29,0.11%,+0.58%,+9.89%,+14.1%,+22%,"1,041,561",24.91,1.32,Industrials,Rail Transportation
+RSG,Republic Services Inc,"69,951.27M",225.97,0.11%,+1.30%,+7.17%,-0.8%,+120%,"1,254,387",33.58,0.55,Industrials,Environmental & Facilities Services
+PCAR,Paccar Inc,"68,028.80M",129.48,0.11%,+2.16%,+9.30%,+10.8%,+90%,"3,199,802",28.71,1.04,Industrials,Construction Machinery & Heavy Transportation Equipment
+LHX,L3Harris Technologies Inc,"63,651.25M",340.29,0.10%,-1.39%,-0.11%,+61.7%,+55%,"1,070,882",39.89,0.64,Industrials,Aerospace & Defense
+GWW,WW Grainger Inc,"57,177.45M","1,202.47",0.09%,+1.22%,+16.48%,+1.6%,+147%,"201,670",33.82,1.10,Industrials,Industrial Machinery & Supplies & Components
+CARR,Carrier Global Corp,"56,068.15M",67.08,0.09%,+1.91%,+21.13%,-8.9%,+40%,"5,862,054",39.98,1.32,Industrials,Building Products
+URI,United Rentals Inc,"55,051.29M",873.83,0.09%,-0.09%,-7.87%,+3.2%,+249%,"730,782",22.61,1.67,Industrials,Trading Companies & Distributors
+AME,AMETEK Inc,"54,163.76M",235.29,0.09%,+0.94%,+12.17%,+21.4%,+70%,"1,084,828",36.76,1.03,Industrials,Electrical Components & Equipment
+FAST,Fastenal Co,"53,987.43M",47.02,0.09%,+0.77%,+12.76%,+18.4%,+64%,"5,758,646",42.98,0.88,Industrials,Trading Companies & Distributors
+FIX,Comfort Systems USA Inc,"47,214.19M","1,338.65",0.07%,+5.44%,+28.94%,+161.5%,"+1,672%","448,596",56.69,1.66,Industrials,Building: Climate Control
+DAL,Delta Air Lines Inc,"46,634.40M",71.42,0.07%,-4.08%,+0.55%,-2.0%,+73%,"9,254,058",9.32,1.33,Industrials,Passenger Airlines
+ROK,Rockwell Automation Inc,"45,704.68M",406.77,0.07%,-1.41%,-1.78%,+51.4%,+55%,"1,386,972",46.53,1.53,Industrials,Electrical Components & Equipment
+WAB,Westinghouse Air Brake Technologies Corp,"43,495.64M",254.42,0.07%,+3.23%,+12.34%,+10.7%,+192%,"1,767,136",36.95,1.01,Industrials,Construction Machinery & Heavy Transportation Equipment
+ODFL,Old Dominion Freight Line Inc,"40,661.59M",194.46,0.06%,-0.02%,+12.04%,-6.7%,+61%,"2,332,177",40.2,1.26,Industrials,Cargo Ground Transportation
+CPRT,Copart Inc,"38,246.47M",39.51,0.06%,-2.08%,-1.03%,-29.9%,+23%,"7,497,955",24.23,1.08,Industrials,Diversified Support Services
+IR,Ingersoll Rand Inc,"38,226.89M",96.75,0.06%,-1.07%,+12.45%,-8.2%,+74%,"9,106,558",72.33,1.30,Industrials,Industrial Machinery & Supplies & Components
+UAL,United Airlines Holdings Inc,"36,886.93M",113.94,0.06%,-2.08%,-1.17%,-3.3%,+159%,"4,858,066",11.14,1.25,Industrials,Passenger Airlines
+EME,EMCOR Group Inc,"36,196.99M",808.51,0.06%,+3.78%,+22.38%,+60.9%,+569%,"427,319",32.51,1.16,Industrials,Construction & Engineering
+OTIS,Otis Worldwide Corp,"34,759.34M",89.42,0.06%,-0.71%,-0.08%,-10.5%,+29%,"2,918,948",25.51,1.01,Industrials,Industrial Machinery & Supplies & Components
+AXON,Axon Enterprise Inc,"34,282.45M",434.45,0.05%,-2.80%,-31.23%,-25.9%,+364%,"1,066,659",137.79,1.49,Industrials,Aerospace & Defense
+PAYX,Paychex Inc,"34,044.71M",94.84,0.05%,-4.23%,-15.84%,-30.2%,+20%,"5,621,789",21.49,0.89,Industrials,Human Resource & Employment Services
+DOV,Dover Corp,"31,965.55M",233.07,0.05%,+1.56%,+14.56%,-1.1%,+55%,"1,267,423",29.26,1.28,Industrials,Industrial Machinery & Supplies & Components
+ROL,Rollins Inc,"31,563.44M",65.60,0.05%,+0.97%,+7.52%,+28.0%,+54%,"4,142,398",61.6,0.79,Industrials,Environmental & Facilities Services
+XYL,Xylem Inc,"30,864.69M",126.77,0.05%,-1.67%,-8.85%,+11.2%,+34%,"3,326,594",32.33,1.17,Industrials,Industrial Machinery & Supplies & Components
+HUBB,Hubbell Inc,"27,421.83M",516.03,0.04%,+2.57%,+9.12%,+15.3%,+183%,"653,759",30.96,1.00,Industrials,Industrial Machinery & Supplies & Components
+LUV,Southwest Airlines Co,"25,268.59M",51.43,0.04%,-4.88%,+17.29%,+54.7%,-11%,"9,757,229",65.08,1.09,Industrials,Passenger Airlines
+VRSK,Verisk Analytics Inc,"24,218.32M",173.77,0.04%,+2.54%,-22.71%,-24.4%,+8%,"4,181,570",26.72,0.82,Industrials,Research & Consulting Services
+EFX,Equifax Inc,"23,791.04M",197.60,0.04%,-2.52%,-10.85%,-26.7%,+13%,"2,689,147",37.43,1.56,Industrials,Research & Consulting Services
+VLTO,Veralto Corp,"23,588.50M",95.00,0.04%,+2.36%,-6.77%,-4.3%,+18%,"3,240,794",25.29,--,Industrials,Environmental & Facilities Services
+CHRW,CH Robinson Worldwide Inc,"23,194.43M",196.33,0.04%,-0.14%,+13.79%,+96.0%,+71%,"1,655,057",40.62,0.90,Industrials,Air Freight & Logistics
+LDOS,Leidos Holdings Inc,"22,119.78M",173.00,0.04%,-11.15%,-11.55%,+32.6%,+72%,"1,487,204",16.18,0.62,Industrials,Diversified Support Services
+JBHT,J.B. Hunt Transport Services Inc,"21,793.95M",230.38,0.03%,+0.58%,+11.66%,+18.4%,+42%,"883,443",37.49,1.25,Industrials,Cargo Ground Transportation
+EXPD,Expeditors International of Washington Inc,"21,696.50M",161.89,0.03%,+0.11%,+0.48%,+41.4%,+57%,"1,200,829",26.35,1.13,Industrials,Air Freight & Logistics
+SNA,Snap-On Inc,"19,903.19M",382.68,0.03%,+1.40%,+6.85%,+3.1%,+101%,"574,194",19.94,0.78,Industrials,Industrial Machinery & Supplies & Components
+BR,Broadridge Financial Solutions Inc,"19,561.46M",167.55,0.03%,-2.88%,-24.87%,-17.3%,+46%,"2,320,090",18.55,0.99,Industrials,Data Processing & Outsourced Services
+LII,Lennox International Inc,"19,401.35M",557.51,0.03%,+1.63%,+4.55%,-16.4%,+77%,"621,794",24.49,1.18,Industrials,Building Products
+FTV,Fortive Corp,"18,399.71M",58.71,0.03%,-5.18%,+5.76%,-13.8%,+3%,"8,820,820",30.31,1.10,Industrials,Industrial Machinery & Supplies & Components
+TXT,Textron Inc,"17,142.68M",97.28,0.03%,+1.47%,+4.29%,+15.1%,+80%,"1,385,917",19.0,0.97,Industrials,Aerospace & Defense
+J,Jacobs Solutions Inc,"16,720.18M",142.36,0.03%,-5.82%,+2.04%,-2.5%,+48%,"1,219,419",37.18,0.77,Industrials,Construction & Engineering
+PNR,Pentair PLC,"16,449.09M",100.52,0.03%,+1.93%,-2.48%,+1.6%,+96%,"1,649,252",25.61,1.23,Industrials,Industrial Machinery & Supplies & Components
+NDSN,Nordson Corp,"16,401.98M",294.47,0.03%,-0.45%,+12.22%,+24.7%,+20%,"670,423",34.55,0.99,Industrials,Industrial Machinery & Supplies & Components
+MAS,Masco Corp,"15,884.90M",76.48,0.03%,-1.72%,+9.96%,-16.6%,+16%,"4,807,372",19.61,1.27,Industrials,Building Products
+IEX,IDEX Corp,"15,829.28M",211.48,0.03%,-1.44%,+13.50%,-11.5%,-11%,"1,306,885",33.43,0.98,Industrials,Industrial Machinery & Supplies & Components
+ALLE,Allegion PLC,"15,432.92M",179.39,0.02%,+0.25%,+11.10%,+24.6%,+37%,"567,023",24.27,1.03,Industrials,Building Products
+HII,Huntington Ingalls Industries Inc,"15,409.55M",392.70,0.02%,-1.67%,-1.39%,+113.2%,+99%,"508,579",25.54,0.34,Industrials,Aerospace & Defense
+BLDR,Builders FirstSource Inc,"14,037.03M",126.94,0.02%,-1.15%,+2.30%,-31.6%,+152%,"2,610,051",24.15,1.54,Industrials,Building Products
+SWK,Stanley Black & Decker Inc,"14,022.19M",90.53,0.02%,-1.34%,+9.85%,-10.7%,-58%,"1,706,931",34.22,1.19,Industrials,Industrial Machinery & Supplies & Components
+GNRC,Generac Holdings Inc,"12,615.61M",214.99,0.02%,+17.93%,+37.29%,+12.5%,-40%,"4,187,951",40.91,1.80,Industrials,Electrical Components & Equipment
+AOS,A O Smith Corp,"11,169.83M",80.22,0.02%,-0.31%,+12.97%,+9.2%,+22%,"1,104,818",20.85,1.33,Industrials,Building Products
+PAYC,Paycom Software Inc,"6,518.37M",118.71,0.01%,-4.99%,-25.31%,-35.1%,-65%,"3,025,608",14.76,0.80,Industrials,Human Resource & Employment Services

@@ -1,0 +1,32 @@
+Ticker,Company,MarketCap,Price,Weight,Change_1D,Change_1M,Change_1Y,Change_5Y,Volume_1D,PE_Ratio,Beta,Sector,Industry
+NEE,Nextera Energy Inc,"190,267.26M",91.36,0.30%,+0.58%,+12.62%,+22.8%,+4%,"6,440,435",27.68,0.76,Utilities,Multi-Utilities
+SO,Southern Co,"100,046.85M",90.86,0.16%,+0.15%,+4.75%,+6.4%,+42%,"6,990,482",22.56,0.45,Utilities,Electric Utilities
+DUK,Duke Energy Corp,"97,363.03M",125.20,0.15%,+1.26%,+7.27%,+8.4%,+28%,"5,655,124",19.81,0.51,Utilities,Electric Utilities
+CEG,Constellation Energy Corp,"86,457.80M",276.85,0.14%,+2.11%,-17.57%,-6.4%,+528%,"3,771,851",31.74,1.14,Utilities,Electric Utilities
+AEP,American Electric Power Company Inc,"65,292.51M",122.25,0.10%,+0.84%,+4.87%,+21.8%,+38%,"2,699,116",17.89,0.62,Utilities,Electric Utilities
+SRE,Sempra,"59,511.36M",91.18,0.09%,+1.65%,+2.33%,+4.9%,+39%,"3,525,248",28.06,0.75,Utilities,Multi-Utilities
+D,Dominion Energy Inc,"55,205.28M",64.65,0.09%,+1.35%,+10.72%,+8.2%,-22%,"4,317,911",24.27,0.70,Utilities,Multi-Utilities
+VST,Vistra Corp,"54,263.62M",160.15,0.09%,+0.34%,-7.20%,-5.8%,+721%,"4,089,339",58.08,1.45,Utilities,Electric Utilities
+XEL,Xcel Energy Inc,"46,092.80M",77.92,0.07%,+0.54%,+5.30%,+13.2%,+11%,"5,027,164",22.77,0.47,Utilities,Multi-Utilities
+EXC,Exelon Corp,"44,907.39M",44.45,0.07%,-0.43%,+3.61%,+11.9%,+45%,"10,066,228",15.91,0.45,Utilities,Electric Utilities
+ETR,Entergy Corp,"44,749.32M",100.20,0.07%,+0.49%,+7.17%,+18.3%,+85%,"3,101,189",24.72,0.65,Utilities,Electric Utilities
+PEG,Public Service Enterprise Group Inc,"42,003.47M",84.15,0.07%,+1.14%,+7.06%,-1.4%,+38%,"1,725,245",20.22,0.62,Utilities,Electric Utilities
+ED,Consolidated Edison Inc,"39,656.48M",109.87,0.06%,+1.33%,+11.17%,+13.8%,+37%,"1,188,506",19.19,0.39,Utilities,Multi-Utilities
+PCG,PG&E Corp,"37,584.26M",17.10,0.06%,+2.09%,+8.92%,-1.5%,+29%,"23,176,947",14.58,0.37,Utilities,Multi-Utilities
+WEC,WEC Energy Group Inc,"36,819.29M",113.13,0.06%,+0.19%,+7.74%,+11.5%,+15%,"2,447,139",23.43,0.58,Utilities,Electric Utilities
+NRG,NRG Energy Inc,"30,783.13M",160.63,0.05%,+2.68%,+7.89%,+49.0%,+324%,"1,596,072",24.03,1.28,Utilities,Independent Power Producers & Energy Traders
+ATO,Atmos Energy Corp,"29,112.48M",175.97,0.05%,+1.03%,+4.99%,+16.7%,+76%,"1,219,044",22.86,0.75,Utilities,Gas Utilities
+DTE,DTE Energy Co,"29,014.97M",139.71,0.05%,+1.36%,+7.21%,+12.1%,+25%,"1,995,673",20.93,0.50,Utilities,Multi-Utilities
+AEE,Ameren Corp,"28,677.35M",106.02,0.05%,+0.23%,+5.81%,+9.6%,+28%,"2,330,148",20.39,0.58,Utilities,Multi-Utilities
+FE,FirstEnergy Corp,"27,687.72M",47.93,0.04%,+0.57%,+7.15%,+18.9%,+46%,"4,138,082",20.84,0.62,Utilities,Electric Utilities
+CNP,CenterPoint Energy Inc,"26,800.31M",41.05,0.04%,+0.20%,+8.37%,+21.9%,+77%,"5,795,311",25.92,0.59,Utilities,Multi-Utilities
+PPL,PPL Corp,"26,630.64M",36.00,0.04%,-0.19%,+3.45%,+7.9%,+24%,"12,069,737",24.47,0.72,Utilities,Electric Utilities
+ES,Eversource Energy,"26,345.84M",70.22,0.04%,+1.33%,+2.14%,+19.9%,-22%,"2,662,303",19.3,0.79,Utilities,Electric Utilities
+EIX,Edison International,"25,804.02M",67.06,0.04%,+2.44%,+11.79%,+15.3%,-4%,"2,308,117",8.78,0.82,Utilities,Electric Utilities
+AWK,American Water Works Co Inc,"24,141.81M",123.69,0.04%,-1.07%,-5.07%,+3.6%,-15%,"1,600,377",21.69,0.78,Utilities,Water Utilities
+CMS,CMS Energy Corp,"22,677.93M",74.52,0.04%,+1.04%,+6.69%,+8.3%,+15%,"3,007,308",21.11,0.48,Utilities,Multi-Utilities
+NI,NiSource Inc,"21,311.75M",44.66,0.03%,-0.16%,+5.36%,+18.7%,+82%,"6,752,552",23.59,0.65,Utilities,Multi-Utilities
+EVRG,Evergy Inc,"18,257.96M",79.31,0.03%,+0.71%,+8.11%,+19.6%,+31%,"1,734,226",21.77,0.64,Utilities,Electric Utilities
+LNT,Alliant Energy Corp,"17,538.52M",68.23,0.03%,+0.32%,+4.70%,+11.9%,+26%,"1,527,109",21.47,0.67,Utilities,Electric Utilities
+AES,AES Corp,"11,707.25M",16.44,0.02%,+1.17%,+17.09%,+33.2%,-39%,"7,669,081",10.01,0.96,Utilities,Independent Power Producers & Energy Traders
+PNW,Pinnacle West Capital Corp,"11,492.63M",96.02,0.02%,+0.86%,+7.09%,+7.6%,+11%,"963,554",19.72,0.54,Utilities,Multi-Utilities

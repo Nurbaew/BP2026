@@ -1,0 +1,61 @@
+Ticker,Company,MarketCap,Price,Weight,Change_1D,Change_1M,Change_1Y,Change_5Y,Volume_1D,PE_Ratio,Beta,Sector,Industry
+LLY,Eli Lilly and Co,"959,759.23M","1,015.21",1.52%,-0.96%,-6.09%,+27.9%,+537%,"2,352,348",44.23,0.40,Health Care,Pharmaceuticals
+JNJ,Johnson & Johnson,"580,304.01M",240.86,0.92%,+1.05%,+14.85%,+49.4%,+32%,"6,369,199",21.81,0.34,Health Care,Pharmaceuticals
+ABBV,AbbVie Inc,"390,398.78M",220.89,0.62%,-0.70%,+0.39%,+21.3%,+113%,"7,892,322",93.46,0.34,Health Care,Biotechnology
+MRK,Merck & Co Inc,"296,129.81M",119.31,0.47%,+1.84%,+9.27%,+11.6%,+35%,"10,273,166",16.4,0.30,Health Care,Pharmaceuticals
+UNH,UnitedHealth Group Inc,"252,647.84M",278.91,0.40%,+2.08%,-18.09%,-47.1%,-6%,"6,112,725",21.14,0.42,Health Care,Managed Health Care
+TMO,Thermo Fisher Scientific Inc,"198,063.04M",527.17,0.31%,-2.34%,-14.34%,-3.2%,+24%,"3,281,518",29.72,0.96,Health Care,Life Sciences Tools & Services
+ABT,Abbott Laboratories,"197,518.24M",113.59,0.31%,+1.17%,-8.87%,-14.6%,+14%,"9,043,868",30.45,0.75,Health Care,Health Care Equipment
+AMGN,Amgen Inc,"197,395.99M",366.58,0.31%,+0.53%,+12.61%,+19.8%,+42%,"2,705,279",25.76,0.47,Health Care,Biotechnology
+GILD,Gilead Sciences Inc,"193,297.95M",155.80,0.31%,+5.82%,+27.08%,+46.0%,+111%,"11,024,010",22.97,0.38,Health Care,Biotechnology
+ISRG,Intuitive Surgical Inc,"176,187.10M",496.12,0.28%,+0.20%,-13.38%,-11.8%,+108%,"1,661,822",63.0,1.66,Health Care,Health Care Equipment
+PFE,Pfizer Inc,"157,664.74M",27.73,0.25%,+0.43%,+9.73%,-0.3%,-32%,"39,719,337",20.45,0.44,Health Care,Pharmaceuticals
+DHR,Danaher Corp,"155,503.87M",219.98,0.25%,+0.10%,-7.96%,-1.7%,+16%,"3,963,010",43.76,0.93,Health Care,Life Sciences Tools & Services
+SYK,Stryker Corp,"139,086.16M",363.70,0.22%,+0.73%,+0.64%,-5.5%,+43%,"1,855,563",43.31,0.87,Health Care,Health Care Equipment
+MDT,Medtronic PLC,"129,585.57M",101.08,0.21%,-0.34%,+4.26%,+13.4%,-18%,"9,826,478",27.33,0.72,Health Care,Health Care Equipment
+BMY,Bristol-Myers Squibb Co,"122,002.50M",59.93,0.19%,-1.53%,+7.46%,-6.6%,-13%,"10,212,877",17.37,0.28,Health Care,Pharmaceuticals
+HCA,HCA Holdings Inc,"121,276.14M",531.47,0.19%,+5.86%,+12.05%,+48.0%,+184%,"2,279,195",18.72,1.36,Health Care,Health Care Facilities
+VRTX,Vertex Pharmaceuticals Inc,"117,025.81M",461.24,0.19%,-0.48%,+0.14%,+1.8%,+92%,"1,758,535",32.41,0.32,Health Care,Biotechnology
+MCK,McKesson Corp,"116,756.24M",953.19,0.18%,+1.92%,+15.45%,+39.8%,+372%,"811,348",27.42,0.40,Health Care,Health Care Distributors
+BSX,Boston Scientific Corp,"108,957.48M",73.47,0.17%,-1.05%,-23.24%,-8.6%,+165%,"17,591,473",37.89,0.68,Health Care,Health Care Equipment
+CVS,CVS Health Corp,"97,771.50M",77.02,0.15%,+1.74%,-4.16%,+31.9%,+16%,"10,375,775",201.78,0.50,Health Care,Health Care Services
+REGN,Regeneron Pharmaceuticals Inc,"82,352.71M",778.97,0.13%,+3.19%,+1.43%,+10.2%,+60%,"826,590",18.56,0.41,Health Care,Biotechnology
+CI,Cigna Group,"77,649.56M",294.73,0.12%,+2.40%,+6.78%,-6.8%,+32%,"2,391,774",12.98,0.28,Health Care,Health Care Services
+ELV,Elevance Health Inc,"72,886.17M",330.25,0.12%,+1.42%,-11.93%,-12.6%,+9%,"1,391,841",13.15,0.51,Health Care,Managed Health Care
+COR,Cencora Inc,"71,139.62M",365.70,0.11%,+1.58%,+6.88%,+41.3%,+245%,"1,133,152",43.99,0.69,Health Care,Health Care Distributors
+ZTS,Zoetis Inc,"56,703.58M",128.67,0.09%,+0.42%,+2.67%,-27.0%,-24%,"6,600,132",21.68,0.96,Health Care,Pharmaceuticals
+CAH,Cardinal Health Inc,"52,770.51M",224.25,0.08%,+1.81%,+10.73%,+73.8%,+284%,"1,217,543",32.25,0.66,Health Care,Health Care Distributors
+IDXX,IDEXX Laboratories Inc,"51,801.09M",648.73,0.08%,+0.34%,-10.49%,+58.9%,+35%,"383,953",49.6,1.66,Health Care,Health Care Equipment
+BDX,Becton Dickinson and Co,"51,429.74M",180.62,0.08%,+5.21%,-10.91%,-17.8%,-22%,"5,500,577",29.53,0.26,Health Care,Health Care Equipment
+EW,Edwards Lifesciences Corp,"46,035.20M",79.33,0.07%,+2.96%,-4.43%,+12.3%,-7%,"10,974,668",34.76,0.94,Health Care,Health Care Equipment
+RMD,Resmed Inc,"37,821.44M",259.62,0.06%,-1.49%,+0.69%,+9.4%,+13%,"1,146,800",25.66,0.88,Health Care,Health Care Equipment
+A,Agilent Technologies Inc,"36,458.08M",128.90,0.06%,-0.08%,-12.90%,-11.7%,+15%,"2,019,466",28.24,1.30,Health Care,Life Sciences Tools & Services
+GEHC,GE Healthcare Technologies Inc,"36,095.40M",79.20,0.06%,-0.03%,-8.86%,-10.6%,+40%,"3,397,582",17.4,--,Health Care,Health Care Equipment
+WAT,Waters Corp,"32,287.94M",329.20,0.05%,+0.67%,-16.38%,-10.8%,+54%,"3,308,264",30.58,1.19,Health Care,Life Sciences Tools & Services
+IQV,IQVIA Holdings Inc,"30,049.73M",177.18,0.05%,-2.89%,-26.44%,+14.3%,+26%,"4,505,640",22.6,1.38,Health Care,Life Sciences Tools & Services
+MTD,Mettler-Toledo International Inc,"28,312.57M","1,392.65",0.04%,-0.55%,-6.66%,+0.6%,+22%,"147,383",33.07,1.43,Health Care,Life Sciences Tools & Services
+BIIB,Biogen Inc,"28,060.51M",191.20,0.04%,+1.17%,+3.00%,+25.0%,-28%,"962,655",21.71,0.16,Health Care,Biotechnology
+DXCM,Dexcom Inc,"26,568.16M",68.12,0.04%,-0.06%,-4.03%,-15.9%,-28%,"4,619,546",38.51,1.49,Health Care,Health Care Equipment
+LH,Labcorp Holdings Inc,"24,031.88M",289.89,0.04%,+1.89%,+15.78%,+8.7%,+43%,"785,765",28.46,1.02,Health Care,Health Care Services
+STE,STERIS plc,"23,879.54M",243.47,0.04%,-0.49%,-6.63%,+19.0%,+34%,"958,497",33.88,1.05,Health Care,Health Care Equipment
+DGX,Quest Diagnostics Inc,"23,284.76M",209.32,0.04%,+1.93%,+18.97%,+14.7%,+46%,"1,359,662",23.89,0.67,Health Care,Health Care Services
+HUM,Humana Inc,"21,095.36M",175.40,0.03%,-3.25%,-36.58%,-33.4%,-38%,"6,395,185",16.44,0.45,Health Care,Managed Health Care
+CNC,Centene Corp,"19,881.86M",40.43,0.03%,+2.07%,-12.85%,-32.3%,-31%,"4,419,412",-2.97,0.50,Health Care,Managed Health Care
+INCY,Incyte Corp,"19,404.27M",98.84,0.03%,-1.21%,-7.04%,+34.9%,+14%,"1,874,936",16.71,0.85,Health Care,Biotechnology
+ZBH,Zimmer Biomet Holdings Inc,"18,947.99M",95.61,0.03%,+4.61%,+4.55%,-20.5%,-40%,"3,518,636",26.96,0.61,Health Care,Health Care Equipment
+VTRS,Viatris Inc,"18,578.05M",16.13,0.03%,+1.13%,+27.21%,+16.1%,-38%,"10,038,483",-5.21,0.78,Health Care,Pharmaceuticals
+WST,West Pharmaceutical Services Inc,"17,708.75M",246.16,0.03%,+1.07%,-9.80%,-32.3%,-3%,"1,633,426",36.47,1.18,Health Care,Health Care Supplies
+PODD,Insulet Corp,"17,647.30M",250.85,0.03%,-0.62%,-9.94%,-8.1%,+11%,"670,735",72.78,1.42,Health Care,Health Care Equipment
+HOLX,Hologic Inc,"16,763.09M",75.09,0.03%,-0.08%,+0.31%,+3.9%,+2%,"1,557,213",31.16,0.73,Health Care,Health Care Equipment
+COO,Cooper Companies Inc,"16,276.14M",83.05,0.03%,+1.81%,-0.22%,-15.7%,-10%,"1,348,824",44.31,1.03,Health Care,Health Care Supplies
+MRNA,Moderna Inc,"15,826.45M",40.51,0.03%,-3.54%,+19.71%,+11.8%,-72%,"14,096,228",-5.03,1.34,Health Care,Biotechnology
+UHS,Universal Health Services Inc,"14,452.87M",231.32,0.02%,+8.71%,+12.31%,+6.7%,+59%,"1,056,924",10.99,1.26,Health Care,Health Care Facilities
+ALGN,Align Technology Inc,"14,171.34M",197.51,0.02%,+0.63%,+14.83%,-25.6%,-71%,"1,095,480",34.9,1.81,Health Care,Health Care Supplies
+SOLV,Solventum Corp,"14,134.44M",81.49,0.02%,+1.28%,-4.90%,+3.9%,+14%,"707,327",9.37,--,Health Care,Health Care Technology
+RVTY,Revvity Inc,"11,462.72M",101.10,0.02%,-3.48%,-2.69%,-13.7%,-33%,"1,503,444",48.81,1.09,Health Care,Health Care Equipment
+BAX,Baxter International Inc,"11,448.12M",22.27,0.02%,+1.50%,+10.52%,-38.4%,-76%,"10,634,598",-32.16,0.57,Health Care,Health Care Equipment
+TECH,Bio-Techne Corp,"9,926.75M",63.45,0.02%,-2.08%,-4.67%,-12.9%,-26%,"1,907,220",125.0,1.47,Health Care,Life Sciences Tools & Services
+DVA,DaVita Inc,"9,889.71M",144.27,0.02%,+3.58%,+31.04%,-38.0%,-3%,"1,138,743",15.1,0.99,Health Care,Health Care Services
+HSIC,Henry Schein Inc,"9,616.55M",81.69,0.02%,+0.83%,+7.30%,-5.7%,+13%,"1,317,382",25.81,0.89,Health Care,Health Care Distributors
+CRL,Charles River Laboratories International Inc,"8,169.54M",165.98,0.01%,-8.42%,-24.15%,+27.8%,-20%,"1,955,107",-106.74,1.63,Health Care,Life Sciences Tools & Services
+MOH,Molina Healthcare Inc,"6,255.15M",122.65,0.01%,-2.22%,-32.54%,-42.1%,-18%,"2,437,600",13.75,0.52,Health Care,Managed Health Care

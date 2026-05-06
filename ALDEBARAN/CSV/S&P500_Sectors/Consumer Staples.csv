@@ -1,0 +1,37 @@
+Ticker,Company,MarketCap,Price,Weight,Change_1D,Change_1M,Change_1Y,Change_5Y,Volume_1D,PE_Ratio,Beta,Sector,Industry
+WMT,Walmart Inc,"1,026,318.78M",128.77,1.63%,+1.63%,+9.15%,+21.4%,+132%,"18,521,406",45.17,0.67,Consumer Staples,Consumer Staples Merchandise Retail
+COST,Costco Wholesale Corp,"434,167.00M",978.14,0.69%,+0.71%,+3.72%,-4.0%,+134%,"1,586,713",52.4,1.01,Consumer Staples,Consumer Staples Merchandise Retail
+PG,Procter & Gamble Co,"371,840.00M",160.00,0.59%,+0.58%,+11.53%,-8.6%,+3%,"9,763,322",23.71,0.38,Consumer Staples,Personal Care Products
+KO,Coca-Cola Co,"338,106.54M",78.60,0.54%,+2.33%,+11.49%,+17.9%,+27%,"21,153,210",25.86,0.36,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+PM,Philip Morris International Inc,"289,962.79M",186.27,0.46%,+1.96%,+12.78%,+37.8%,+94%,"6,104,029",25.65,0.41,Consumer Staples,Tobacco
+PEP,PepsiCo Inc.,"231,168.85M",169.15,0.37%,+1.31%,+19.66%,+1.9%,-3%,"6,189,414",28.18,0.41,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+MO,Altria Group Inc,"110,371.17M",65.92,0.17%,+2.36%,+12.61%,+18.7%,+41%,"12,067,122",16.01,0.49,Consumer Staples,Tobacco
+MNST,Monster Beverage Corp,"78,933.45M",80.79,0.13%,+0.77%,+4.25%,+65.8%,+66%,"5,003,186",45.99,0.45,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+MDLZ,Mondelez International Inc,"78,795.32M",61.47,0.12%,+1.35%,+11.93%,+0.8%,-8%,"8,337,477",32.53,0.40,Consumer Staples,Packaged Foods & Meats
+CL,Colgate-Palmolive Co,"76,825.58M",95.31,0.12%,+1.47%,+16.33%,+4.1%,-8%,"5,088,529",36.36,0.29,Consumer Staples,Household Products
+TGT,Target Corp,"51,896.55M",114.61,0.08%,+2.25%,+7.98%,-23.5%,-45%,"6,424,463",13.91,1.13,Consumer Staples,Consumer Staples Merchandise Retail
+HSY,Hershey Co,"46,814.07M",230.85,0.07%,+0.81%,+19.53%,+30.5%,+19%,"3,006,671",53.19,0.15,Consumer Staples,Packaged Foods & Meats
+KR,Kroger Co,"43,451.48M",68.66,0.07%,+0.94%,+12.35%,+2.0%,+97%,"5,698,798",62.89,0.62,Consumer Staples,Food Retail
+SYY,Sysco Corp,"42,165.00M",88.04,0.07%,+0.48%,+18.44%,+15.0%,-1%,"5,028,013",23.68,0.60,Consumer Staples,Food Distributors
+KDP,Keurig Dr Pepper Inc,"40,607.95M",29.89,0.06%,+4.11%,+7.91%,-14.5%,-12%,"13,884,819",25.76,0.35,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+EL,Estée Lauder Companies Inc,"38,122.73M",105.39,0.06%,+4.03%,-6.75%,+38.2%,-61%,"4,648,934",-248.85,1.12,Consumer Staples,Personal Care Products
+KMB,Kimberly-Clark Corp,"35,712.44M",107.60,0.06%,+1.62%,+9.49%,-23.1%,-25%,"5,518,721",22.02,0.27,Consumer Staples,Household Products
+KVUE,Kenvue Inc,"34,620.85M",18.54,0.05%,+2.36%,+9.06%,-18.3%,-35%,"44,916,916",24.92,--,Consumer Staples,Personal Care Products
+ADM,Archer-Daniels-Midland Co,"33,303.50M",69.30,0.05%,+0.99%,+11.41%,+31.4%,+14%,"6,208,682",31.1,0.68,Consumer Staples,Agricultural Products & Services
+DG,Dollar General Corp,"32,392.86M",147.16,0.05%,+0.62%,-1.14%,+101.8%,-37%,"2,691,245",25.41,0.25,Consumer Staples,Consumer Staples Merchandise Retail
+KHC,Kraft Heinz Co,"29,581.66M",24.99,0.05%,+0.36%,+6.84%,-20.4%,-30%,"34,815,343",-6.7,0.04,Consumer Staples,Packaged Foods & Meats
+STZ,Constellation Brands Inc,"28,300.51M",163.20,0.04%,-1.47%,+7.50%,-13.3%,-37%,"2,682,732",25.73,0.43,Consumer Staples,Distillers & Vintners
+GIS,General Mills Inc,"26,150.76M",49.01,0.04%,+0.72%,+12.72%,-23.1%,-21%,"9,720,599",10.51,-0.07,Consumer Staples,Packaged Foods & Meats
+DLTR,Dollar Tree Inc,"24,856.25M",125.00,0.04%,+2.53%,-8.92%,+60.3%,+14%,"2,744,697",24.2,0.74,Consumer Staples,Consumer Staples Merchandise Retail
+CHD,Church & Dwight Co Inc,"24,123.46M",100.46,0.04%,+1.51%,+15.92%,-8.8%,-4%,"2,174,233",33.37,0.47,Consumer Staples,Household Products
+BG,Bunge Global SA,"23,595.72M",122.03,0.04%,+3.09%,+20.80%,+49.6%,+36%,"1,385,153",22.46,0.75,Consumer Staples,Agricultural Products & Services
+TSN,Tyson Foods Inc,"22,652.83M",64.34,0.04%,-0.95%,+8.28%,+15.7%,-9%,"1,795,657",112.82,0.47,Consumer Staples,Packaged Foods & Meats
+MKC,McCormick & Company Inc,"18,933.07M",70.53,0.03%,+2.28%,+5.52%,-19.9%,-29%,"3,040,491",24.07,0.60,Consumer Staples,Packaged Foods & Meats
+CLX,Clorox Co,"15,228.61M",125.95,0.02%,+3.71%,+17.73%,-28.9%,-50%,"2,355,911",20.58,0.60,Consumer Staples,Household Products
+BF.B,Brown-Forman Corp,"14,026.00M",30.28,0.02%,+1.24%,+13.75%,-17.1%,-67%,"4,809,507",17.68,0.39,Consumer Staples,Distillers & Vintners
+HRL,Hormel Foods Corp,"13,175.13M",23.95,0.02%,-1.44%,+4.81%,-17.9%,-49%,"4,295,759",27.57,0.33,Consumer Staples,Packaged Foods & Meats
+SJM,J M Smucker Co,"11,848.99M",111.06,0.02%,+1.54%,+10.93%,-1.9%,-15%,"1,750,527",-9.89,0.23,Consumer Staples,Packaged Foods & Meats
+TAP,Molson Coors Beverage Co,"10,007.30M",53.27,0.02%,+2.38%,+9.05%,-12.3%,+3%,"3,051,467",-4.99,0.48,Consumer Staples,Brewers
+CAG,Conagra Brands Inc,"9,576.97M",20.02,0.02%,+3.57%,+19.95%,-28.5%,-52%,"11,984,154",-97.18,-0.02,Consumer Staples,Packaged Foods & Meats
+CPB,Campbell's Co,"8,741.17M",29.32,0.01%,+0.58%,+11.10%,-27.8%,-42%,"4,130,694",15.18,-0.04,Consumer Staples,Packaged Foods & Meats
+LW,Lamb Weston Holdings Inc,"6,977.33M",50.24,0.01%,-0.67%,+21.26%,-23.4%,-47%,"1,656,534",18.08,0.42,Consumer Staples,Packaged Foods & Meats
