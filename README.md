@@ -67,7 +67,7 @@ Each strategy folder contains `CSV/settings.csv` with all tunable parameters:
 | Parameter | Description |
 |---|---|
 | `p_value_threshold` | Max p-value for Engle-Granger cointegration test |
-| `min_correlation` | Minimum Pearson correlation between log-price series |
+| `min_correlation` | Minimum Pearson correlation between price series |
 | `min_hurst` / `max_hurst` | Hurst exponent bounds |
 | `min_half_life` / `max_half_life` | Mean-reversion half-life bounds (days) |
 | `min_zero_crossings` | Minimum spread zero-crossings in IS window |
