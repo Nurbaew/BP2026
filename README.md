@@ -32,13 +32,13 @@ Copies `is_results.xlsx`, `oos_results.xlsx`, and the settings into a timestampe
 
 ### BETELGEUSE — Strategy I
 
-Notebook: `BETELGEUSE/16-BETELGEUSE.ipynb`
+Notebook: `BETELGEUSE/17-BETELGEUSE.ipynb`
 
 Baseline strategy. The spread Z-score is calculated using an **expanding window** — all available history up to the current point in time is used. No additional market-regime filter is applied.
 
 ### ALDEBARAN — Strategy II
 
-Notebook: `ALDEBARAN/16-ALDEBARAN.ipynb`
+Notebook: `ALDEBARAN/17-ALDEBARAN.ipynb`
 
 The spread Z-score is calculated using a **rolling window** (`z_window = 60` trading days). This makes the Z-score more responsive to recent spread dynamics compared to Strategy I.
 
@@ -46,7 +46,7 @@ The spread Z-score is calculated using a **rolling window** (`z_window = 60` tra
 
 ### SIRIUS — Strategy III
 
-Notebook: `SIRIUS/16-SIRIUS.ipynb`
+Notebook: `SIRIUS/17-SIRIUS.ipynb`
 
 Same rolling Z-score as Strategy II (`z_window = 60`), with an additional **VIX filter**: new positions are blocked when the VIX Z-score (252-day rolling window) exceeds the threshold defined in settings (`vix_z_threshold = 2.0`). This prevents entering trades during high-volatility market regimes.
 
@@ -54,7 +54,7 @@ Same rolling Z-score as Strategy II (`z_window = 60`), with an additional **VIX 
 
 ### RIGEL — DAX experiment (not part of thesis)
 
-Notebook: `RIGEL/16-RIGEL.ipynb`
+Notebook: `RIGEL/17-RIGEL.ipynb`
 
 A copy of ALDEBARAN adapted for the German equity market (DAX index). Used as an exploratory test to check whether the same rolling Z-score methodology transfers to a different market. The results are not included in the thesis.
 
