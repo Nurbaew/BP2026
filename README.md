@@ -6,6 +6,8 @@ This repository contains the source code for the bachelor's thesis:
 
 Prague University of Economics and Business (VŠE Praha), 2026
 
+[**Thesis Record in the VŠE Repository**](https://vskp.vse.cz/101609_analyza-uspesnosti-algoritmickych-obchodnich-strategii-zalozenych-na-kointegraci?author=ruslan&page=1)
+
 The repository has four folders — **BETELGEUSE**, **ALDEBARAN**, **SIRIUS**, and **RIGEL** — each containing a Jupyter notebook with the strategy logic and a `DATA/` folder with the corresponding results.
 
 ---
